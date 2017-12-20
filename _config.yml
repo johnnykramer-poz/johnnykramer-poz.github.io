@@ -28,7 +28,7 @@ kramdown:
  hard_wrap: false
 future: true
 jailed: false
-theme: minima
+theme: jekyll-theme-slate
 gfm_quirks: paragraph_end
 
 # Exclude from processing.
