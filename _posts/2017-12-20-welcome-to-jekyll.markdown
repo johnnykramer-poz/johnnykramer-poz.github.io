@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Hello from foobar"
+title:  "Hello from foobar!"
 ---
-Hello from foobar
+Hello from foobar!
